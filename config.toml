@@ -1,0 +1,33 @@
+baseurl = "https://www.kyleboyle.com/"
+languageCode = "en-us"
+title = "Kyle Boyle"
+
+[params]
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Kyle Boyle"
+    defaultKeywords = "Kyle Boyle"
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "theme-base-08"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "sunburst"
+
+    # Displays under the author name in the sidebar, keep it short.
+    tagline = "Don't"
+
+    # Metadata used to drive integrations.
+    googleAuthorship = "Your Google+ profile ID"
+    googleAnalytics = "Your Google Analytics tracking code"
+    gravatarHash = "MD5 hash of your Gravatar email address"
+
+    # Sidebar social links, avoid enabling too many of these if possible.
+    # These should be full URLs.
+    github = ""
+    linkedin = ""
+    googleplus = ""
+    facebook = ""
+    twitter = ""

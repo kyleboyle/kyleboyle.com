@@ -1,0 +1,12 @@
+box: wercker/default
+build:
+  steps:
+    - arjen/hugo-build:
+        version: 0.12
+deploy:
+  steps:
+    - arjen/hugo-build:
+        version: 0.12
+    - leipert/git-push@0.5.6:
+        gh_token: $GIT_TOKEN
+        basedir: public
