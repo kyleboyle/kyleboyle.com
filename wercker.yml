@@ -3,8 +3,6 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.12
-    - kyleboyle/html-proofer-test:
-        basedir: public
 deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
