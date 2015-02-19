@@ -1,4 +1,4 @@
-baseurl = "http://kyleboyle.com/"
+#baseurl = "http://kyleboyle.com/"
 languageCode = "en-us"
 title = "Kyle Boyle"
 theme = "kb1"
