@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.12
-   - kyleboyle/html-proofer-test:
+    - kyleboyle/html-proofer-test:
         basedir: public
 deploy:
   steps:
