@@ -1,11 +1,14 @@
 /*
  * Tweaks and overrides to hyde.css
  */
+html {
+  font-family: "PT Serif", Helvetica, Arial, sans-serif;
+}
 
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Merriweather", serif;
   font-size: 2.5rem;
 }
 

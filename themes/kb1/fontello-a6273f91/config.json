@@ -1,0 +1,28 @@
+{
+  "name": "fonticon",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "0ece9a12de796b8411f868d582bee678",
+      "css": "github-squared",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1145676a91138011729fa2909997af66",
+      "css": "linkedin-squared",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "906348dc798a0d42715cc97c875e3ac6",
+      "css": "twitter-squared",
+      "code": 59397,
+      "src": "fontawesome"
+    }
+  ]
+}
