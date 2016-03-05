@@ -2,6 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Kyle Boyle"
 theme = "crisp_kyle"
+DisqusShortname = "kyleboylecom"
+googleAnalytics = "UA-74726625-1"
 
 [params]
     # Used when a given page doesn't set its own.
@@ -11,19 +13,3 @@ theme = "crisp_kyle"
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "sunburst"
-
-    # Displays under the author name in the sidebar, keep it short.
-    tagline = "Don't"
-
-    # Metadata used to drive integrations.
-    googleAuthorship = "Your Google+ profile ID"
-    googleAnalytics = "Your Google Analytics tracking code"
-    #gravatarHash = "MD5 hash of your Gravatar email address"
-
-    # Sidebar social links, avoid enabling too many of these if possible.
-    # These should be full URLs.
-    github = ""
-    linkedin = ""
-    googleplus = ""
-    facebook = ""
-    twitter = ""

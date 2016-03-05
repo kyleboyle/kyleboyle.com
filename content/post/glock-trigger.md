@@ -35,8 +35,8 @@ You can use any metal polish you have on hand. I used a brand called nevr-dull t
 
 I chose not to polish to a mirror finish because I didn't want to remove too much surface material. There are still some small bumps but the surface is smooth.
 {{% flexrow %}}
-{{< figure class="inset" src="/img/glock/005.jpg" caption="smooth plunger" >}}
-{{< figure class="inset" src="/img/glock/006.jpg" caption="smooth plunger 2" >}}
+{{< figure class="inset" src="/img/glock/005.jpg" caption="polishing compound" >}}
+{{< figure class="inset" src="/img/glock/006.jpg" caption="smooth plunger" >}}
 {{% /flexrow %}}
 
 
