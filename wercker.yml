@@ -6,7 +6,12 @@ build:
         basedir: public
 deploy:
   steps:
-    - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
+#    - lukevivier/gh-pages@0.2.1:
+#        token: $GITHUB_TOKEN
+#        domain: kyleboyle.com
+#        basedir: public
+    - uetchy/gh-pages@0.3.1:
+        token: $GITHUB_TOKEN
+        repo: kyleboyle/kyleboyle.com
         domain: kyleboyle.com
-        basedir: public
+        path: public
