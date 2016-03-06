@@ -10,8 +10,12 @@ deploy:
 #        token: $GITHUB_TOKEN
 #        domain: kyleboyle.com
 #        basedir: public
-    - uetchy/gh-pages@0.3.1:
+#    - uetchy/gh-pages@0.3.1:
+#        token: $GITHUB_TOKEN
+#        repo: kyleboyle/kyleboyle.com
+#        domain: kyleboyle.com
+#        path: public
+    - burrbd/gh-pages@0.2.3
         token: $GITHUB_TOKEN
-        repo: kyleboyle/kyleboyle.com
         domain: kyleboyle.com
-        path: public
+        basedir: public
