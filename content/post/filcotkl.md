@@ -48,7 +48,7 @@ For firmware, I used Easy AVR. The media keys pause/play, mute, volume up, and v
 
 The next / prev track key codes for OSX aren't the same as windows so the default key codes won't work. I used the following changes to the source code to get the `NEXT_TRACK` and `PREV_TRACK` track mappings working.
 
-{{< highlight diff >}}
+{{< highlight diff "style=borland" >}}
 diff --git a/firmware/src/config_keymap.h b/firmware/src/config_keymap.h
 index dace012..47c180e 100644
 --- a/firmware/src/config_keymap.h
