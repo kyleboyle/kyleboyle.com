@@ -1,5 +1,5 @@
 +++
-categories = ["firearms"]
+categories = ["firearms", "projects"]
 date = "2016-02-25"
 description = ""
 keywords = []
