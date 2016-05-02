@@ -4,7 +4,7 @@ date = "2016-02-25"
 description = ""
 keywords = []
 title = "Glock Trigger Enhancements"
-draft = false
+draft = true
 titleimg = "/img/glock/title.jpg"
 +++
 
