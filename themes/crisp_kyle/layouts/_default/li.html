@@ -5,7 +5,7 @@
         {{ if .Params.titleimg }}<a href="{{ .Permalink }}" style="position:absolute;left:0;right:0;top:0;bottom:0;background:linear-gradient(rgba(255,255,255,0) 60%, rgba(255,255,255,0.85) 80%, rgba(255,255,255,0.95));" ></a>{{ end }}
         <div style="position: relative;z-index: 3;">
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
-		<span class="separator"> &middot; </span>
+		<br/><!--<span class="separator"> &middot; </span>-->
 		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
             {{ .Date.Format "2 Jan 2006" }}
         </time>

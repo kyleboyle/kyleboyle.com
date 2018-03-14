@@ -4,7 +4,7 @@ date = "2016-03-25"
 description = ""
 keywords = []
 title = "My First Mechanical Keyboard Project"
-draft = true
+draft = false
 titleimg = "/img/filco/title.jpg"
 +++
 
