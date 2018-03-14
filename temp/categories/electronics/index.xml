@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on Kyle Boyle</title>
+    <link>/categories/electronics/</link>
+    <description>Recent content in Electronics on Kyle Boyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/electronics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Mechanical Keyboard Project</title>
+      <link>/post/filcotkl/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/filcotkl/</guid>
+      <description>&lt;p&gt;I decided I would like to try a mechanical keyboard but an off the shelf option just wouldn&amp;rsquo;t do. Here were my requirements:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;small form factor (tenkeyless, no numpad)&lt;/li&gt;
+&lt;li&gt;function key row&lt;/li&gt;
+&lt;li&gt;OSX compatible (media keys, other shortcuts)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a variety of options and feature levels out there but I chose to go with one of the most basic options: a Filco Majestouch 2. The most important aspect about this model is that there is a replacement controller available with which I can use firmware that enables custom key maps and functions.&lt;/p&gt;
+
+&lt;div class=&#34;flexrow&#34;&gt;
+    &lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/005.jpg&#34; alt=&#34;keyboard in box&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        keyboard in box
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/007.jpg&#34; alt=&#34;Filco MJ 2&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Filco MJ 2
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The replacement controller, Pegasus Hoof, is built by Bathroom Epiphanies.
+&lt;div class=&#34;flexrow&#34;&gt;
+    &lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/001.jpg&#34; alt=&#34;controller package&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        controller package
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/002.jpg&#34; alt=&#34;safetly and securely packaged&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        safetly and securely packaged
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;div class=&#34;flexrow&#34;&gt;
+    &lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/003.jpg&#34; alt=&#34;Pegasus Hoof PCB&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pegasus Hoof PCB
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/004.jpg&#34; alt=&#34;Pegasus Hoof business end&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pegasus Hoof business end
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;To replace the controller board, partial disassembly was required. The top of the case was removed by unscrewing the one screw on the back and disengaging the tabs that hold the top half to the bottom half.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;flexrow&#34;&gt;
+    &lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/008.jpg&#34; alt=&#34;The top removed, plus shift and enter keys removed to expose the Cherry Brown key switches. This provides easier access to the controller when removing it.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The top removed, plus shift and enter keys removed to expose the Cherry Brown key switches. This provides easier access to the controller when removing it.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/009.jpg&#34; alt=&#34;stock controller removed&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        stock controller removed
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;inset float&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/010.jpg&#34; alt=&#34;Pegasus Hoof installed&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pegasus Hoof installed
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After the controller was installed, I replaced the stock key caps with a high quality set manufactured by GMK. I also outfitted each keycap with an o-ring around the stem which softens the key press feel when a key bottoms out (plus it quiets the key press a little bit.)
+
+&lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/011.jpg&#34; alt=&#34;GMK Dolch key set installed&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        GMK Dolch key set installed
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;For firmware, I used Easy AVR. The media keys pause/play, mute, volume up, and volume down worked as expected. The decrease and increase screen brightness are available by using the &lt;code&gt;SCROLL_LOCK&lt;/code&gt; and &lt;code&gt;PAUSE&lt;/code&gt; key mappings respectively.&lt;/p&gt;
+
+&lt;p&gt;The next / prev track key codes for OSX aren&amp;rsquo;t the same as windows so the default key codes won&amp;rsquo;t work. I used the following changes to the source code to get the &lt;code&gt;NEXT_TRACK&lt;/code&gt; and &lt;code&gt;PREV_TRACK&lt;/code&gt; track mappings working.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #ffffff&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #999999&#34;&gt;diff --git a/firmware/src/config_keymap.h b/firmware/src/config_keymap.h&lt;/span&gt;
+&lt;span style=&#34;color: #999999&#34;&gt;index dace012..47c180e 100644&lt;/span&gt;
+&lt;span style=&#34;color: #000000; background-color: #ffdddd&#34;&gt;--- a/firmware/src/config_keymap.h&lt;/span&gt;
+&lt;span style=&#34;color: #000000; background-color: #ddffdd&#34;&gt;+++ b/firmware/src/config_keymap.h&lt;/span&gt;
+&lt;span style=&#34;color: #aaaaaa&#34;&gt;@@ -38,8 +38,10 @@&lt;/span&gt;
+ #define SC_MAC_CP_RECORD 0xB2      /* Record */
+ #define SC_MAC_CP_FFW 0xB3         /* Fast Forward */
+ #define SC_MAC_CP_REW 0xB4         /* Rewind */
+&lt;span style=&#34;color: #000000; background-color: #ffdddd&#34;&gt;-#define SC_WIN_CP_NEXT_TRACK 0xB5  /* Scan Next Track One Shot Control (OSC) */&lt;/span&gt;
+&lt;span style=&#34;color: #000000; background-color: #ffdddd&#34;&gt;-#define SC_WIN_CP_PREV_TRACK 0xB6  /* Scan Previous Track One Shot Control (OSC) */&lt;/span&gt;
+&lt;span style=&#34;color: #000000; background-color: #ddffdd&#34;&gt;+#define SC_WIN_CP_NEXT_TRACK 0xB3 /* Scan Next Track One Shot Control (OSC) */&lt;/span&gt;
+&lt;span style=&#34;color: #000000; background-color: #ddffdd&#34;&gt;+#define SC_WIN_CP_PREV_TRACK 0xB4 /* Scan Previous Track One Shot Control (OSC) */&lt;/span&gt;
+ #define SC_WIN_CP_STOP 0xB7            /* Stop One Shot Control (OSC) */
+ #define SC_MAC_CP_EJECT 0xB8       /* Eject */
+ #define SC_MAC_CP_REPEAT 0xBC      /* Repeat */
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;inset&#34;&gt;
+    
+        &lt;img src=&#34;/img/filco/012.jpg&#34; alt=&#34;finished product&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        finished product
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;One last change I&amp;rsquo;d like to make is to add a detachable USB cable. The Filco models have the USB cable wired into the board so it is not replaceable. My keyboard plugs into my laptop which is only a foot or 2 away, making the stock cable unnecessarily long.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
