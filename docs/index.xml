@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Boyle&#39;s Homepage</title>
+    <link>https://kyleboyle.com/</link>
+    <description>Recent content on Kyle Boyle&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kyleboyle.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Mechanical Keyboard Project</title>
+      <link>https://kyleboyle.com/post/filcotkl/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kyleboyle.com/post/filcotkl/</guid>
+      <description>I decided I would like to try a mechanical keyboard but an off the shelf option just wouldn&amp;rsquo;t do. Here were my requirements:
+ small form factor (tenkeyless, no numpad) function key row OSX compatible (media keys, other shortcuts)  There are a variety of options and feature levels out there but I chose to go with one of the most basic options: a Filco Majestouch 2. The most important aspect about this model is that there is a replacement controller available with which I can use firmware that enables custom key maps and functions.</description>
+    </item>
+    
+    <item>
+      <title>Glock Trigger Enhancements</title>
+      <link>https://kyleboyle.com/post/glock-trigger/</link>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kyleboyle.com/post/glock-trigger/</guid>
+      <description>The Glock 17 comes from the factory with about a 5 pound trigger pull. This isn&amp;rsquo;t bad, but it&amp;rsquo;s also not great depending on your intended use. I only use my G17 for target practice and maybe competition in the future so I don&amp;rsquo;t have to worry about any legality issues with gun modifications and self defense. A lighter and smoother trigger pull will hopefully help increase my accuracy by reducing the force needed to squeeze the trigger, increasing the likelihood of staying on target.</description>
+    </item>
+    
+    <item>
+      <title>Basketball Terror</title>
+      <link>https://kyleboyle.com/post/bball-terror/</link>
+      <pubDate>Wed, 27 Nov 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://kyleboyle.com/post/bball-terror/</guid>
+      <description>&amp;ldquo;Hustle up guys. We have to get ready for the big basketball game on Halloween night against the Terrorizers. Practice a couple more three point shots and then hit the showers.&amp;rdquo;
+&amp;ldquo;I don&amp;rsquo;t like the sounds of playing on Halloween night,&amp;rdquo; said one of the players named Carl Blackjack.
+&amp;ldquo;Neither do I. You know what happened last year.&amp;rdquo;
+Everyday the team practiced for the big game and when the game came, they were doing everything right.</description>
+    </item>
+    
+  </channel>
+</rss>

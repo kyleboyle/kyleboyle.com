@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keyboard on Kyle Boyle&#39;s Homepage</title>
+    <link>https://kyleboyle.com/categories/keyboard/</link>
+    <description>Recent content in keyboard on Kyle Boyle&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kyleboyle.com/categories/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Mechanical Keyboard Project</title>
+      <link>https://kyleboyle.com/post/filcotkl/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kyleboyle.com/post/filcotkl/</guid>
+      <description>I decided I would like to try a mechanical keyboard but an off the shelf option just wouldn&amp;rsquo;t do. Here were my requirements:
+ small form factor (tenkeyless, no numpad) function key row OSX compatible (media keys, other shortcuts)  There are a variety of options and feature levels out there but I chose to go with one of the most basic options: a Filco Majestouch 2. The most important aspect about this model is that there is a replacement controller available with which I can use firmware that enables custom key maps and functions.</description>
+    </item>
+    
+  </channel>
+</rss>

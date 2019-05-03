@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kyleboyle.com/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/categories/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/post/filcotkl/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/post/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/categories/electronics/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/categories/keyboard/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/categories/projects/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/post/glock-trigger/</loc>
+    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/categories/firearms/</loc>
+    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/post/bball-terror/</loc>
+    <lastmod>1996-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/categories/nontechnical/</loc>
+    <lastmod>1996-11-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kyleboyle.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

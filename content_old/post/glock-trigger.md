@@ -4,7 +4,7 @@ date = "2016-02-25"
 description = ""
 keywords = []
 title = "Glock Trigger Enhancements"
-draft = false
+draft = true
 titleimg = "/img/glock/title.jpg"
 +++
 
@@ -14,16 +14,16 @@ So, let's do what we can to lighten and smooth out the trigger pull. We are simp
 
 It is best to polish by hand. Using a dremel or polishing wheel provides an opportunity for an ill-timed sneeze to ruin a part. With hand polishing we are guaranteed to not remove a significant amount of surface material.
 
-First, disassemble.
+First, take the gun apart.
 
-
-{{< figure caption="Stock Glock" src="/img/glock/001.jpg" >}}
-{{< figure caption="field stripped" src="/img/glock/002.jpg"  >}}
-
+{{% flexrow %}}
+{{< figure caption="Stock Glock" class="inset" src="/img/glock/001.jpg" >}}
+{{< figure caption="field stripped" class="inset" src="/img/glock/002.jpg"  >}}
+{{% /flexrow %}}
 
 And finally a full detail strip. The instructions on how to do so can be found elsewhere.
 
-{{< figure src="/img/glock/003.jpg" caption="detail stripped" >}}
+{{< figure class="inset" src="/img/glock/003.jpg" caption="detail stripped" >}}
 
 
 {{< figure class="inset float" src="/img/glock/004.jpg" caption="plunger before polish" >}}
@@ -34,19 +34,19 @@ You can use any metal polish you have on hand. I used a brand called nevr-dull t
 
 
 I chose not to polish to a mirror finish because I didn't want to remove too much surface material. There are still some small bumps but the surface is smooth.
-
-{{< figure src="/img/glock/005.jpg" caption="polishing compound" >}}
-{{< figure src="/img/glock/006.jpg" caption="smooth plunger" >}}
-
+{{% flexrow %}}
+{{< figure class="inset" src="/img/glock/005.jpg" caption="polishing compound" >}}
+{{< figure class="inset" src="/img/glock/006.jpg" caption="smooth plunger" >}}
+{{% /flexrow %}}
 
 
 The next surface is on the striker. It is the front facing ledge that connects with the trigger bar.
-{{< figure src="/img/glock/007.jpg" caption="striker profile" >}}
+{{< figure class="inset" src="/img/glock/007.jpg" caption="striker profile" >}}
 Do not round off the bottom edge as it affects the feel of the trigger break.
-
-{{< figure src="/img/glock/008.jpg" caption="striker before" >}}
-{{< figure src="/img/glock/009.jpg" caption="striker after" >}}
-
+{{% flexrow %}}
+{{< figure class="inset" src="/img/glock/008.jpg" caption="striker before" >}}
+{{< figure class="inset" src="/img/glock/009.jpg" caption="striker after" >}}
+{{% /flexrow %}}
 
 The trigger assembly contains the trigger bar and trigger connector. 
 {{< figure src="/img/glock/010.jpg" caption="trigger assembly" >}}
@@ -54,7 +54,7 @@ The trigger connector can be replaced with an after market part which has slight
 
 To separate the 2 components, pull the trigger bar forward (the metal piece connected to the trigger) and pivot the bar out of the mechanism housing. The spring will still be attached. Then finagle the trigger bar off the spring.
 
-{{< figure src="/img/glock/011.jpg" caption="trigger assembly removed from channel" >}}
+{{< figure class="inset" src="/img/glock/011.jpg" caption="trigger assembly removed from channel" >}}
 
 Trigger bar contact points to polish:
 
@@ -62,24 +62,24 @@ Trigger bar contact points to polish:
 2. inside below the cross, contacts the trigger connector
 3. top protrusion, pushes up the safety plunger that we polished earlier
 
-{{< figure src="/img/glock/012.jpg" caption="trigger bar" >}}
+{{< figure class="inset" src="/img/glock/012.jpg" caption="trigger bar" >}}
 
-{{< figure src="/img/glock/016.jpg" caption="trigger bar polished top" >}}
+{{< figure class="inset" src="/img/glock/016.jpg" caption="trigger bar polished top" >}}
 
-{{< figure src="/img/glock/017.jpg" caption="trigger bar polished inside" >}}
+{{< figure class="inset" src="/img/glock/017.jpg" caption="trigger bar polished inside" >}}
 
 The last piece to polish is the trigger connector. It is removed by placing a flat object underneath and lightly prying and wedging. I am actually replacing this part, but the stock part can be improved as well. Polish the outside half beside the lip as this is the area that rubs against the trigger bar.
 My after market replacement came polished from factory (yay).
-{{< figure src="/img/glock/013.jpg" caption="stock connector" >}}
-{{< figure src="/img/glock/014.jpg" caption="stock connector & after market connector" >}}
+{{< figure class="inset" src="/img/glock/013.jpg" caption="stock connector" >}}
+{{< figure class="inset" src="/img/glock/014.jpg" caption="stock connector & after market connector" >}}
 
 This is the stock connector polished to a point that roughly matches the after market connector:
 
-{{< figure src="/img/glock/015.jpg" caption="connector polished" >}}
+{{< figure class="inset" src="/img/glock/015.jpg" caption="connector polished" >}}
 
 Put everything back together.
-{{< figure src="/img/glock/018.jpg" caption="assembled" >}}
+{{< figure class="inset" src="/img/glock/018.jpg" caption="assembled" >}}
 
 ![Silky Smooth](https://41.media.tumblr.com/4ae0e852dc7cca4eb8908287f819a943/tumblr_nrzviaTYZM1ub8zmko1_500.jpg "Silky Smooth")
 
-Enjoy your trigger job and polishing-induced carpal tunnel.
+Enjoy your trigger job and polishing induced carpal tunnel.

@@ -1,15 +1,11 @@
-baseurl = "/"
+baseURL = "https://kyleboyle.com/"
 languageCode = "en-us"
-title = "Kyle Boyle"
-theme = "crisp_kyle"
-DisqusShortname = "kyleboylecom"
-googleAnalytics = "UA-74726625-1"
+title = "Kyle Boyle's Homepage"
+theme = "basic"
+
+# for github pages
+publishDir = "docs"
 
 [params]
-    # Used when a given page doesn't set its own.
-    defaultDescription = "Kyle Boyle"
-    defaultKeywords = "Kyle Boyle"
-
-    # Select a syntax highight.
-    # Check the static/css/highlight directory for options.
-    highlight = "sunburst"
+  github = "https://github.com/kyleboyle"
+  linkedin = "https://www.linkedin.com/in/kyboyle/"
