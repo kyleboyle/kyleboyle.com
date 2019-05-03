@@ -1,0 +1,8 @@
+<div>
+	<div>
+		<h2><small>{{ humanize .Section }}</small> {{ .Title }}</h2>
+		<div>
+			{{ substr .Summary 0 250 | safeHTML }}... <a href="{{ .RelPermalink }}"> &lt; click here for full post! &gt;</a>
+		</div>
+	</div>
+</div>
