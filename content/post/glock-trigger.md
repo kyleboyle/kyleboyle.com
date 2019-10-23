@@ -4,13 +4,13 @@ date = "2016-02-25"
 description = ""
 keywords = []
 title = "Glock Trigger Enhancements"
-draft = false
+draft = true
 titleimg = "/img/glock/title.jpg"
 +++
 
 The Glock 17 comes from the factory with about a 5 pound trigger pull. This isn't bad, but it's also not great depending on your intended use. I only use my G17 for target practice and maybe competition in the future so I don't have to worry about any legality issues with gun modifications and self defense. A lighter and smoother trigger pull will hopefully help increase my accuracy by reducing the force needed to squeeze the trigger, increasing the likelihood of staying on target.
 
-So, let's do what we can to lighten and smooth out the trigger pull. We are simply going to polish the metal surface that move against other metal surfaces when the trigger is actuated. 
+So, let's do what we can to lighten and smooth out the trigger pull. We are simply going to polish the metal surface that move against other metal surfaces when the trigger is actuated.
 
 It is best to polish by hand. Using a dremel or polishing wheel provides an opportunity for an ill-timed sneeze to ruin a part. With hand polishing we are guaranteed to not remove a significant amount of surface material.
 
@@ -48,7 +48,7 @@ Do not round off the bottom edge as it affects the feel of the trigger break.
 {{< figure src="/img/glock/009.jpg" caption="striker after" >}}
 
 
-The trigger assembly contains the trigger bar and trigger connector. 
+The trigger assembly contains the trigger bar and trigger connector.
 {{< figure src="/img/glock/010.jpg" caption="trigger assembly" >}}
 The trigger connector can be replaced with an after market part which has slightly different geometry that will further lighten the trigger pull. I chose to install a 3.5 pound connector, but you can also polish the stock connector.
 
